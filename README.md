@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @julianafharo
+- 👀 I’m interested in practice and learn more and more.
+- 🌱 I’m currently learning HTML5, CSS, Python and Javascript
+- 📫 How to reach me: julianafer27@gmail.com
