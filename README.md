@@ -1,5 +1,5 @@
 <h1>Hey, sou a Juliana!</h1>
-<p>Atualmente estudante de ADS, vivendo em Dubai e sempre aberta para o novo!
+<p>Atualmente estudante de ADS, trabalhando como Digital Marketing, vivendo em Dubai e sempre aberta para o novo!
 
 Estou aprendendo:</p>
 
