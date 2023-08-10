@@ -1,5 +1,6 @@
-<h1>Hey, sou a Juliana!</h1>
-<p>Atualmente estudante de ADS, trabalhando como Digital Marketing, vivendo em Dubai e sempre aberta para o novo!
+<h1>Hey, welcome to my profile!</h1>
+<p>Currently an IT student (systems analysis and development), frontend jr, working as a Affiliate Marketing Manager, living in Dubai and always open for new opportunities!
+Let's talk?
 
 Estou aprendendo:</p>
 
